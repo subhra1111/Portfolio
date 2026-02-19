@@ -45,7 +45,7 @@ export function Navbar() {
           ))}
           <div className="flex items-center gap-3 ml-4 border-l border-border pl-4">
             <a
-              href={siteConfig.socials.github}
+              href="https://github.com/subhra1111"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub"
@@ -54,7 +54,7 @@ export function Navbar() {
               <Github className="h-4 w-4" />
             </a>
             <a
-              href={siteConfig.socials.linkedin}
+              href="https://www.linkedin.com/in/subhranil-bar-33427a302/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"
@@ -64,7 +64,7 @@ export function Navbar() {
             </a>
           </div>
           <a
-            href={siteConfig.resumeUrl}
+            href="./Subhranil_Bar_Resume.pdf"
             download="Subhranil_Bar_Resume.pdf"
             className="flex items-center gap-2 rounded-md border border-primary/30 bg-primary/10 px-4 py-2 text-sm font-medium text-primary transition-all hover:bg-primary/20 hover:shadow-[0_0_15px_hsla(0,85%,55%,0.2)]"
           >
