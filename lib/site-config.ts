@@ -11,7 +11,7 @@ export const siteConfig = {
   socials: {
     linkedin: "https://www.linkedin.com/in/subhranil-bar-33427a302/", // Update with actual URL
     github: "https://github.com/subhra1111", // Update with actual URL
-    tryhackme: "https://tryhackme.com/p/subhranilbar", // Update with actual URL
+    tryhackme: "https://tryhackme.com/p/subhranilbar10", // Update with actual URL
   },
 
   about:
