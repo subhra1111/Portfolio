@@ -64,7 +64,7 @@ export function Navbar() {
             </a>
           </div>
           <a
-            href="./Subhranil_Bar_Resume.pdf"
+            href={siteConfig.resumeUrl}
             download="Subhranil_Bar_Resume.pdf"
             className="flex items-center gap-2 rounded-md border border-primary/30 bg-primary/10 px-4 py-2 text-sm font-medium text-primary transition-all hover:bg-primary/20 hover:shadow-[0_0_15px_hsla(0,85%,55%,0.2)]"
           >

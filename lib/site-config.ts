@@ -6,11 +6,11 @@ export const siteConfig = {
   specialization: "Cyber Security & Digital Forensics",
   phone: "+91 6297008272",
   email: "subhranilbar10@gmail.com",
-  resumeUrl: "/Subhranil_Resume.pdf",
+  resumeUrl: "/Subhranil_Bar_Resume.pdf",
 
   socials: {
-    linkedin: "https://linkedin.com/in/subhranilbar", // Update with actual URL
-    github: "https://github.com/subhranilbar", // Update with actual URL
+    linkedin: "https://www.linkedin.com/in/subhranil-bar-33427a302/", // Update with actual URL
+    github: "https://github.com/subhra1111", // Update with actual URL
     tryhackme: "https://tryhackme.com/p/subhranilbar", // Update with actual URL
   },
 
