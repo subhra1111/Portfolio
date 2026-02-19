@@ -14,6 +14,9 @@ export const siteConfig = {
     tryhackme: "https://tryhackme.com/p/subhranilbar10", // Update with actual URL
   },
 
+  // Get your TryHackMe user ID from your profile page
+  tryhackmeUserId: "5199891", // Replace with your actual TryHackMe user ID
+
   about:
     "I am a passionate Cyber Security & Digital Forensics student specializing in penetration testing, vulnerability assessment, ethical hacking, and digital investigations. I enjoy exploring real-world security challenges, learning new security tools, and continuously improving my offensive and defensive security skills.",
 

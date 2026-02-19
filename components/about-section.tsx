@@ -91,7 +91,7 @@ export function AboutSection() {
                 </div>
                 <div className="relative bg-[#212c42]">
                   <iframe
-                    src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5199891"
+                    src={`https://tryhackme.com/api/v2/badges/public-profile?userPublicId=${siteConfig.tryhackmeUserId}`}
                     className="block w-full"
                     style={{ border: "none", height: "105px" }}
                     title="TryHackMe Badge"
