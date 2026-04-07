@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Welcome, {{ username }}!</h2>
+<p style="text-align: center;">You have successfully logged in.</p>
+<div class="form-group" style="text-align: center;">
+    <a href="/logout" class="btn" style="background-color: #f44336; text-decoration: none; display: inline-block;">Logout</a>
+</div>
+{% endblock %}

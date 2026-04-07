@@ -9,7 +9,7 @@ export const siteConfig = {
   resumeUrl: "/Subhranil_Bar_Resume.pdf",
 
   socials: {
-    linkedin: "https://www.linkedin.com/in/subhranil-bar-33427a302/", // Update with actual URL
+    linkedin: "www.linkedin.com/in/subhranil-bar-7632553b6", // Update with actual URL
     github: "https://github.com/subhra1111", // Update with actual URL
     tryhackme: "https://tryhackme.com/p/subhranilbar10", // Update with actual URL
   },
@@ -33,7 +33,7 @@ export const siteConfig = {
       title: "Sample Certification",
       organization: "Sample Organization",
       date: "2025",
-      link: "#", // Update with actual certificate link
+      link: "https://drive.google.com/drive/folders/1833KrmAvpxIpHX-FLaq17LPxDKzkXGvj?usp=drive_link", // Update with actual certificate link
     },
     // Add more certifications here
   ],
@@ -43,7 +43,7 @@ export const siteConfig = {
       title: "Sample Project",
       description: "A brief description of your project goes here.",
       tools: ["Python", "Nmap", "Burp Suite"],
-      github: "#", // Update with actual GitHub repo link
+      github: "https://github.com/subhra1111", // Update with actual GitHub repo link
     },
     // Add more projects here
   ],
