@@ -9,7 +9,7 @@ export const siteConfig = {
   resumeUrl: "/Subhranil_Bar_Resume.pdf",
 
   socials: {
-    linkedin: "www.linkedin.com/in/subhranil-bar-7632553b6", // Update with actual URL
+    linkedin: "https://linkedin.com/in/subhranil-bar-7632553b6", // Update with actual URL
     github: "https://github.com/subhra1111", // Update with actual URL
     tryhackme: "https://tryhackme.com/p/subhranilbar10", // Update with actual URL
   },
